@@ -11,3 +11,6 @@
 // This is dev dependency means we only use in development not in production
 // npm i nodemon -D
 
+// utils folder is for utility functions or helper functions
+
+// prettier package is for formatting our code
