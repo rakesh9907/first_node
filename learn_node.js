@@ -2,7 +2,7 @@
 // npm init
 
 // Here index.js is the entry point of the project which is define in package.json
-// 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 github code
+// github code
 
 // We have gitignore generater in market
 // In package.json we are adding "type": "module" we want to use ES6 or module technique not requeir(common js)
@@ -33,3 +33,9 @@
 
 
 // cookie-parser, cors
+// mongoose-aggregate-paginate-v2
+
+// Please read mongose Aggregation Pipeline
+
+// bcrypt or bcrypt.js
+// jwt (jsonwebtoken) package
