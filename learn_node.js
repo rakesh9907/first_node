@@ -39,3 +39,13 @@
 
 // bcrypt or bcrypt.js
 // jwt (jsonwebtoken) package
+
+// File Upload package express-fileupload
+// multer package
+// Here we are using cloudinary for image hosting
+
+
+// HTTP vs HTTPS (Hyper Text Transfer Protocol)
+// URL = uniform resource locator
+// URI =  uniform resource indentifier
+// URN = uniform resource name
